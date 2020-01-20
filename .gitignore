@@ -4,10 +4,7 @@ node_modules/
 assignment2/node_modules/
 /assignment2/node_modules/
 /project1/.idea/
-.gitignore
-app.js
 package.json
 public/
-routes/
 util/
 views/
