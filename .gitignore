@@ -8,3 +8,5 @@ package.json
 public/
 util/
 views/
+images/
+rest_api/images/
